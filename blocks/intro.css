@@ -52,7 +52,7 @@
     font-weight: 400;
     line-height: 26.08px;
     text-align: left;
-    width: 720px;
+   max-width: 720px;
     margin: 32px 0 0;
   }
 
@@ -73,7 +73,7 @@
     }
 
     .intro__paragraph {
-      width: 720px;
+     max-width: 720px;
     }
   }
 
