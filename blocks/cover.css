@@ -62,19 +62,21 @@
     font-size: 18px;
     font-weight: 600;
     line-height: 21.78px;
-    text-align: left;
-    max-width: 198px;
-    width: 100%;
+    color: rgba(255, 255, 255, 1);
+      max-width: 249px;
+     max-height: 22px;
+
+
     padding: 13px 20px 13px 20px;
     border-radius: 4px;
-    text-decoration: none;
-    color: white;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: #0278fe;
-    z-index: 1000;
+
+     display: flex;
+      align-items: left;
+      justify-content: center;
+    background: linear-gradient(90deg, #0278FE 0%, #003A7B 99.98%);
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.25);
+  
+
   }
 
   /*Para que al pasar el cursor por encima de la imagen y boton se cambie de color*/
